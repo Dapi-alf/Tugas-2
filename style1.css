@@ -1,0 +1,25 @@
+ body {
+        background-image:url(Penguin.jpeg);
+        position: fixed;
+        top: 0;
+        left:0;
+        width: 100%;
+        height: 100%;
+        background-size: cover;
+        background-repeat: no-repeat;
+      }
+      a{
+        text-decoration:none}
+     a:hover{ 
+        text-decoration:underline;
+        color:red;
+        background-color:#ccffcc;}
+     li em {
+        color:red;font-weight: bold;
+     background-color:#ffffff}
+     ul {
+        margin-left:2cm;}
+     ul ul {
+        text-decoration:underline;
+     margin-left:.5cm
+     }
